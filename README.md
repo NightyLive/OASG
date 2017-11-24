@@ -1,6 +1,7 @@
 # OASG
 Outlook Automatic Signature Generator
 
+WARNING: THIS IS A PREVIEW AND THE SCRIPT IS NOT FINISHED OR TESTED
 
 The problem:
 So far I searched a lot about using Outlook signatures into a corporate way without finding something that satisfy me. There is some tricks but they are not smooth or proffessional, it also have some cons and there is no embed solution from Microsoft Exchange. The best solution is to buy a software, they are good but for sure not free and I was a little afraid to pay from something so simple.
